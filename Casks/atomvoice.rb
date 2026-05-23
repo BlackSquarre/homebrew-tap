@@ -1,8 +1,8 @@
 cask "atomvoice" do
-  version "0.10.4-Beta-2"
-  sha256 "d7ad21689ac4d4942a2a97d50169151c68e2b6b319e25b8f9198620283d0dcbe"
+  version "0.10.4-Beta-3"
+  sha256 "38429d2f03003754b29b61750ae5aece4bf7986638ea757faeebe9deb93ab01e"
 
-  url "https://github.com/BlackSquarre/AtomVoice/releases/download/v0.10.4-Beta-2/AtomVoice-0.10.4-Beta-2-Debug-Universal.zip"
+  url "https://github.com/BlackSquarre/AtomVoice/releases/download/v0.10.4-Beta-3/AtomVoice-0.10.4-Beta-3-Debug-Universal.zip"
   name "AtomVoice"
   desc "macOS menu bar voice input tool - press Fn to record, release to inject text"
   homepage "https://github.com/BlackSquarre/AtomVoice"
